@@ -1,4 +1,4 @@
-Student Product Billing & Management System
+**Student Product Billing & Management System**
 Assignment Title: Core Java + OOP Coding Assignment – Student Product Billing & Management System
 Your Name: Yash Raj Singh
 Date: 13/04/2026
