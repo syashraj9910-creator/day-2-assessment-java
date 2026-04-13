@@ -1,8 +1,8 @@
 # Student Product Billing & Management System
 
 **Assignment Title:** Core Java + OOP Coding Assignment – Student Product Billing & Management System  
-**Your Name:** Himanshu Sharma  
-**Date:** 12/04/2026
+**Your Name:** Yash Raj Singh
+**Date:** 13/04/2026
 
 ## Concepts Used
 * Classes and Objects
@@ -44,6 +44,5 @@ Shared Company Name: Global Tech Industries
 Product Price: $25.99  
 
 **--- US-08: Demonstrate Inheritance ---** Roll No: 201  
-Name: Bob Martin  
+Name: Yash Raj Singh  
 Marks: 91.0  
-University: State University
