@@ -1,4 +1,4 @@
-Student Product Billing & Magagment System
+# Student Product Billing & Magagment System
 
 Assignment Title: Core Java + OOP Coding Assignment – Student Product Billing & Management System
 
