@@ -6,7 +6,7 @@ Your Name: Yash Raj Singh
 
 Date: 13/04/2026
 
-Concepts Used
+# Concepts Used
 
 Classes and Objects
 Strings and String Methods (toUpperCase, toLowerCase, length)
@@ -17,7 +17,7 @@ static Keyword (Shared Data)
 Encapsulation (private, Getters, Setters)
 Inheritance (extends, Parent & Child Class)
 
-Sample Output
+# Sample Output
 
 Roll No: 101
 Name: Alice Smith
