@@ -1,10 +1,13 @@
 Student Product Billing & Magagment System
 
 Assignment Title: Core Java + OOP Coding Assignment – Student Product Billing & Management System
+
 Your Name: Yash Raj Singh
+
 Date: 13/04/2026
 
 Concepts Used
+
 Classes and Objects
 Strings and String Methods (toUpperCase, toLowerCase, length)
 Arrays and for loop
@@ -13,7 +16,9 @@ Constructors and this keyword
 static Keyword (Shared Data)
 Encapsulation (private, Getters, Setters)
 Inheritance (extends, Parent & Child Class)
+
 Sample Output
+
 Roll No: 101
 Name: Alice Smith
 Marks: 88.5
